@@ -107,7 +107,3 @@ By completing this project, learners will:
 - Gain experience in real-world system design  
 - Improve problem-solving skills in Java  
 
----
-
-## 📜 License  
-This project is for educational purposes.
