@@ -61,28 +61,6 @@ Each implementation step focuses on:
 
 ---
 
-## 📂 Project Structure  
-
-```
-HotelBookingSystem/
-│
-├── models/
-│   ├── Room.java
-│   ├── Booking.java
-│   └── Customer.java
-│
-├── services/
-│   ├── BookingService.java
-│   └── RoomService.java
-│
-├── utils/
-│   └── DataStore.java
-│
-└── Main.java
-```
-
----
-
 ## ⚙️ How It Works  
 
 1. User requests a booking  
